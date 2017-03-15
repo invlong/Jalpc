@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: invlong.github.io
   i18n: jalpc
-  gh_user: jarrekk
+  gh_user: invlong
   repo: invlong.github.io
   img: /static/assets/img/landing/dragon.png
   desc: This project is my awesome blog source
