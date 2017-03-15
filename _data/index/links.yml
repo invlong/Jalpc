@@ -1,18 +1,13 @@
 # links section data
-- last_name: Name 1
+- last_name: 伯乐在线
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: 伯乐在线成立于 2010 年，由 黄余粮 和 黄利民 联合发起，立志做最专业的IT互联网职业社区。
+  website: http://www.jobbole.com/
+  email: bd@Jobbole.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: ImportNew
+  first_name:
+  desc: Java 开发者学习新知识的网站
+  website: http://www.importnew.com/
+  email: ImportNew.com@gmail.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
