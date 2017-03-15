@@ -1,21 +1,21 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
+title: pro.invlong
+description: invlong's blog,use Jekyll and github pages.
+keywords: invlong,blog,Jekyll,github,gh-pages
+baseurl:  /invlong.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://invlong.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: invlong  # Be used at blog posts' author.
+  first_name: pro  # Be used at index page about me section.
+  last_name: invlong  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jarrekk  # Leave blank if you don't have now
+  github_username: invlong  # Leave blank if you don't have now
   linkedin_id: kun-jia-991264a2 # Leave blank if you don't have now
   facebook_username: jiakunnj  # Leave blank if you don't have now
   twitter_username: jiakun614  # Leave blank if you don't have now
