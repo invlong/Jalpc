@@ -7,7 +7,7 @@
     detail: for payment technology develop with wechat & bank
     i18n: company_a_desc
   date:
-    detail: Feb. 2017
+    detail: Feb. 2017 - Now
     i18n: company_a_date
   job:
     detail: Full Stack Developer
@@ -21,7 +21,7 @@
     detail: Intelligence community develop（PC、app）
     i18n: company_b_desc
   date:
-    detail: July. 2014
+    detail: July. 2014 - Oct. 2016
     i18n: company_b_date
   job:
     detail: Full Stack Developer
