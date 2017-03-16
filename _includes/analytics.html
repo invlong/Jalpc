@@ -12,6 +12,24 @@
   </script>
 {% endif %}
 
+<script>
+  Icarus.request({
+      api: 'hk.page.get',
+      v: '1.0',
+      data: {
+        pages: [
+          { url: 'https://invlong.github.io/' }
+        ]
+      },
+      success: function(results) {
+        console.log("访问量"+results[0].count);
+      },
+      failure: function(code, err) {
+        console.log(code, err);
+      }
+    });
+</script>
+
 <!-- GrowingIO -->
 {% if site.gio %}
   <script>
