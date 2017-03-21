@@ -3,8 +3,10 @@
 {% if site.disqus %}
   <script id="dsq-count-scr" src="//invlong.disqus.com/count.js" async></script>
   <script type="text/javascript">
+  window.onload=function(){
+    DISQUSWIDGETS.getCount({reset: true});
+  }
 
-  DISQUSWIDGETS.getCount({reset: true});
 
   </script>
 {% endif %}
