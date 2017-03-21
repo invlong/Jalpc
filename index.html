@@ -94,3 +94,44 @@ permalink: /
   transform-origin: top left;
 }
 </style>
+
+<span id="http://www.cloudchou.com" class="leancloud_visitors meta_data_item" data-flag-title="">
+     <span class="post-meta-item-icon">
+       <span class="octicon octicon-eye"></span> 
+     </span>
+     <span class="old-visitors-count" style="display: none;"></span>
+     <span class="leancloud-visitors-count"></span>
+     <span class="post-meta-item-text">次浏览</span>
+</span>
+
+<!--访问LeanCloud的js包装脚本-->
+<script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
+<!--初始化LeanCloud的AV对象-->
+<script>
+AV.initialize("XW4Q7zNqqUDctxx4hSsciXKl-gzGzoHsz", "F0PjzevUSgWYaL8mgScXmIHw");
+</script>
+<!--实现计数的js包装脚本-->
+<script type="text/javascript">
+
+function addCount(Counter) {
+    var $visitors = document.getElementsByClassName('leancloud_visitors');
+    console.log($visitors);
+    var url = $visitors[0].getAttribute("id")
+    var title = $visitors[0].getAttribute('data-flag-title');
+    var query = new AV.Query(Counter);
+    query.equalTo("url", url);
+    query.find({
+        success: function(results) {
+            console.log(results);
+        },
+        error: function(error) {
+            console.log('Error:' + error.code + " " + error.message);
+        }
+    });
+}
+window.onload = function(){
+    var Counter = AV.Object.extend("Counter");
+    addCount(Counter);
+};
+
+</script>

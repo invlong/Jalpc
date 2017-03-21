@@ -44,6 +44,10 @@ ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get
 gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
 #   id: 8cf733f89aec5f82
 
+lean_cloud :
+  app_id   :  XW4Q7zNqqUDctxx4hSsciXKl-gzGzoHsz
+  app_key  :  F0PjzevUSgWYaL8mgScXmIHw
+
 ## donation
 donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
