@@ -1,15 +1,15 @@
 {% include analytics.html %}
 
 {% if site.disqus %}
-  <script id="dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>
+  <script id="dsq-count-scr" src="//invlong.disqus.com/count.js" async></script>
   <script type="text/javascript">
     var disqusShortName = "{{ site.disqus.name }}";
-
     var disqusPublicKey = "{{ site.disqus.public_key }}";
 
     var urlArray = [];
     $('.disqus-comment-count').each(function () {
       var url = $(this).attr('data-disqus-url');
+      console.log(url);
       urlArray.push('link:' + url);
     });
     $.ajax({
@@ -19,12 +19,17 @@
       cache: false,
       dataType: "jsonp",
       success: function (result) {
+        console.log(result);
         for (var i in result.response) {
           var count = result.response[i].posts;
+          console.log('sss'+count);
           if ( count ) {
             $('.disqus-comment-count[data-disqus-url="' + result.response[i].link + '"]').html(count);
           }
         }
+      },
+      error:function (){
+        console.log('error');
       }
     });
 </script>
