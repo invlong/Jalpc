@@ -10,8 +10,8 @@ icon: icon-html
 ---
 
        
-       
-###测试  
+##1.客户端  
+
 
 >今天，我开始配置免密码ssh登录远程服务器，虽然网上的教程很详细，但是我也遇到了一些独立的问题，以做记录。  
 
@@ -44,7 +44,7 @@ _如果有修改过端口号的话，需要指定-p参数来指定端口号。_
 ####2.远程服务器
 1. 用vi打开/etc/ssh/sshd_config这个文件   
 将下面几行前面“#”注释取掉   
-```termianl  
+```java  
 RSAAuthentication yes 
 PubkeyAuthentication yes 
 AuthorizedKeysFile .ssh/authorized_keys 
@@ -53,7 +53,7 @@ AuthorizedKeysFile .ssh/authorized_keys
 在.ssh文件夹下建立authorized_keys文件，记住authorized_keys是文件，不是文件夹。  
 将客户端中的`id_rsa.pub`的内容拷贝到`authorized_keys`中。  
 3. 赋予权限  
-```termianl  
+```java  
 chmod 600 authorized_keys
 ```
 4. 重启ssh服务。  
