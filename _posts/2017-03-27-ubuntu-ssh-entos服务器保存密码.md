@@ -13,17 +13,17 @@ icon: icon-html
 
 ####1. 客户端    
 1.  通过命令生成公私密钥对  
-```terminal
+```java
 ssh-keygen     
 ``` 
 一路敲回车下去，最后在~/.ssh文件夹下生成id_rsa和id_rsa.pub两个文件。  
 2. 改一下.ssh目录的权限  
-```terminal
+```java
 chmod 755 ~/.ssh
 ```
 3. 在~/.ssh文件夹下创建config文件  
 具体如下  
-```terminal
+```java
 Host abc //服务器别名 
 HostName xxx.xxx.xxx.xxx //服务器的ip地址 
 User root   
@@ -32,7 +32,7 @@ Port 22  //ssh服务端口
 _注：如果需要对远程多台机子配置，则config文本文件里面再添加一条记录，格式
 和上面的一样。_  
 4. 用 ssh-copy-id 把公钥复制到远程主机上  
-```terminal
+```java
 ssh-copy-id -i ~/.ssh/id_rsa.pub root@192.168.0.3 -p 22622
 ```
 _如果有修改过端口号的话，需要指定-p参数来指定端口号。_  
@@ -59,7 +59,7 @@ service sshd restar
 
 ####3.回到本机进行测试
 1. _要重新打开一个terminal_  
-```terminal  
+```java  
 ssh abc //注abc 是config文件中配置的服务器别名
 ```
 
