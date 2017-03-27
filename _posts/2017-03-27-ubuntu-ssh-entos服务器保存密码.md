@@ -57,7 +57,7 @@ chmod 600 authorized_keys
 service sshd restar
 ```
 
-####3.回到本机进行测试
+####3.回到本机进行测试  
 ###测试
 1. _要重新打开一个terminal_  
 ```java  
