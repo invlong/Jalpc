@@ -5,15 +5,17 @@ date:   2017-03-27
 desc: "ssh通过证书登录"
 keywords: "Ubuntu,ssh,rsa"
 categories: [Linux]
-tags: [Jekyll]
+tags: [Ubuntu,ssh]
 icon: icon-html
 ---
 
 
 
 >今天，我开始配置免密码ssh登录远程服务器，虽然网上的教程很详细，但是我也遇到了一些独立的问题，以做记录。  
+  
 
-####1. 客户端    
+#### 1. 客户端    
+
 1.  通过命令生成公私密钥对  
 
 		ssh-keygen      
@@ -40,7 +42,8 @@ _注：如果需要对远程多台机子配置，则config文本文件里面再�
 _如果有修改过端口号的话，需要指定-p参数来指定端口号。_ 
  
 
-####2. 远程服务器
+####2. 远程服务器  
+
 1. 用vi打开/etc/ssh/sshd_config这个文件   
 将下面几行前面“#”注释取掉   
 
