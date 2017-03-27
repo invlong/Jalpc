@@ -9,6 +9,10 @@ tags: [Ubuntu,ssh]
 icon: icon-html
 ---
 
+       
+       
+###测试  
+
 >今天，我开始配置免密码ssh登录远程服务器，虽然网上的教程很详细，但是我也遇到了一些独立的问题，以做记录。  
 
 ####1.客户端    
@@ -58,10 +62,6 @@ service sshd restar
 ```
 
 ####3.回到本机进行测试  
-  
-  
-###测试  
-
 1. _要重新打开一个terminal_  
 ```java  
 ssh abc //注abc 是config文件中配置的服务器别名
