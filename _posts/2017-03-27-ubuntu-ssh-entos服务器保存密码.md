@@ -58,7 +58,10 @@ service sshd restar
 ```
 
 ####3.回到本机进行测试  
-###测试
+  
+  
+###测试  
+
 1. _要重新打开一个terminal_  
 ```java  
 ssh abc //注abc 是config文件中配置的服务器别名
