@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73060ac2-d501-4c50-ba61-54d0558d484e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-20-I-ve-Interviewed-100s-of-Candidates-and-the-Ones-I-Hire-Always-Do-This.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-08-27-how-to-use-this-jekyll-theme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-08-change-the-comment-provider-to-yuntentie.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-24-abandon-the-comment-feature.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
@@ -39,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="140">
+              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -59,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-09-数据同步服务说明文档.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-09-数据同步服务说明文档.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="167">
+              <first_editor relative-caret-position="2080">
                 <caret line="104" column="29" lean-forward="true" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
                 <folding>
                   <marker date="1515467722175" expanded="true" signature="3871:4161" ph="create table... cdc_config" />
@@ -81,13 +76,13 @@
             <state relative-caret-position="311">
               <caret line="190" column="168" lean-forward="false" selection-start-line="190" selection-start-column="163" selection-end-line="190" selection-end-column="168" />
               <folding>
-                <marker date="1515467708727" expanded="true" signature="5200:5221" ph="..." />
-                <marker date="1515467708727" expanded="true" signature="5200:5236" ph="..." />
-                <marker date="1515467708727" expanded="true" signature="5200:5249" ph="..." />
-                <marker date="1515467708727" expanded="true" signature="5200:5260" ph="..." />
-                <marker date="1515467708727" expanded="true" signature="5329:5672" ph="..." />
-                <marker date="1515467708727" expanded="true" signature="5354:5662" ph="..." />
-                <marker date="1515467708727" expanded="false" signature="5389:5395" ph="©" />
+                <marker date="1515467737302" expanded="true" signature="5200:5221" ph="..." />
+                <marker date="1515467737302" expanded="true" signature="5200:5236" ph="..." />
+                <marker date="1515467737302" expanded="true" signature="5200:5249" ph="..." />
+                <marker date="1515467737302" expanded="true" signature="5200:5260" ph="..." />
+                <marker date="1515467737302" expanded="true" signature="5329:5672" ph="..." />
+                <marker date="1515467737302" expanded="true" signature="5354:5662" ph="..." />
+                <marker date="1515467737302" expanded="false" signature="5389:5395" ph="©" />
               </folding>
             </state>
           </provider>
@@ -117,11 +112,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_site/2014/11/17/welcome-to-jekyll/index.html" />
         <option value="$PROJECT_DIR$/_site/categories/index.html" />
         <option value="$PROJECT_DIR$/_posts/2018-01-09-数据同步服务说明文档.md" />
         <option value="$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -178,13 +173,6 @@
               <item name="invlong.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="invlong.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="invlong.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="cdc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,7 +285,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515465518402</updated>
-      <workItem from="1515465519835" duration="2202000" />
+      <workItem from="1515465519835" duration="2278000" />
     </task>
     <task id="LOCAL-00001" summary="删除所有文章">
       <created>1515465547289</created>
@@ -327,11 +315,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515466177534</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add page">
+      <created>1515467733502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1515467733502</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2202000" />
+    <option name="totallyTimeSpent" value="2278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -394,7 +389,8 @@
     <MESSAGE value="删除所有文章" />
     <MESSAGE value="更换jekyll模板" />
     <MESSAGE value="修改配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置" />
+    <MESSAGE value="add page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -438,13 +434,13 @@
         <state relative-caret-position="311">
           <caret line="190" column="168" lean-forward="false" selection-start-line="190" selection-start-column="163" selection-end-line="190" selection-end-column="168" />
           <folding>
-            <marker date="1515467708727" expanded="true" signature="5200:5221" ph="..." />
-            <marker date="1515467708727" expanded="true" signature="5200:5236" ph="..." />
-            <marker date="1515467708727" expanded="true" signature="5200:5249" ph="..." />
-            <marker date="1515467708727" expanded="true" signature="5200:5260" ph="..." />
-            <marker date="1515467708727" expanded="true" signature="5329:5672" ph="..." />
-            <marker date="1515467708727" expanded="true" signature="5354:5662" ph="..." />
-            <marker date="1515467708727" expanded="false" signature="5389:5395" ph="©" />
+            <marker date="1515467737302" expanded="true" signature="5200:5221" ph="..." />
+            <marker date="1515467737302" expanded="true" signature="5200:5236" ph="..." />
+            <marker date="1515467737302" expanded="true" signature="5200:5249" ph="..." />
+            <marker date="1515467737302" expanded="true" signature="5200:5260" ph="..." />
+            <marker date="1515467737302" expanded="true" signature="5329:5672" ph="..." />
+            <marker date="1515467737302" expanded="true" signature="5354:5662" ph="..." />
+            <marker date="1515467737302" expanded="false" signature="5389:5395" ph="©" />
           </folding>
         </state>
       </provider>
@@ -470,14 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-11-17-welcome-to-jekyll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -492,7 +480,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="167">
+          <first_editor relative-caret-position="2080">
             <caret line="104" column="29" lean-forward="true" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
             <folding>
               <marker date="1515467722175" expanded="true" signature="3871:4161" ph="create table... cdc_config" />
@@ -500,6 +488,14 @@
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
