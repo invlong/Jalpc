@@ -73,7 +73,8 @@ module.exports = {
             'search/css/cb-search.css',
             'static/css/pygments.css',
             // 'static/css/style.css'
-            'static/css/style-purify.css'
+            'static/css/style-purify.css',
+            'static/css/syntax.css'
         ]
     }]
 }
