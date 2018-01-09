@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73060ac2-d501-4c50-ba61-54d0558d484e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md" afterPath="$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +39,11 @@
         <entry file="file://$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <first_editor relative-caret-position="280">
+                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
                 <folding>
-                  <marker date="1515486280423" expanded="true" signature="3965:4255" ph="create table... cdc_config" />
-                  <marker date="1515486280423" expanded="true" signature="4290:4596" ph="create table... cdc_register" />
+                  <marker date="1515486411884" expanded="true" signature="3966:4256" ph="create table... cdc_config" />
+                  <marker date="1515486411884" expanded="true" signature="4291:4597" ph="create table... cdc_register" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -267,7 +266,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515465518402</updated>
-      <workItem from="1515465519835" duration="10508000" />
+      <workItem from="1515465519835" duration="10641000" />
     </task>
     <task id="LOCAL-00001" summary="删除所有文章">
       <created>1515465547289</created>
@@ -318,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515468349338</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change style">
+      <created>1515486297512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1515486297512</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10508000" />
+    <option name="totallyTimeSpent" value="10641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -416,7 +422,7 @@
         <state relative-caret-position="311">
           <caret line="190" column="168" lean-forward="false" selection-start-line="190" selection-start-column="168" selection-end-line="190" selection-end-column="168" />
           <folding>
-            <marker date="1515486236380" expanded="true" signature="5689:5823" ph="..." />
+            <marker date="1515486394129" expanded="true" signature="5689:5823" ph="..." />
           </folding>
         </state>
       </provider>
@@ -504,11 +510,11 @@
     <entry file="file://$PROJECT_DIR$/_posts/work/cdc/2018-01-09-数据同步服务说明文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <first_editor relative-caret-position="280">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
             <folding>
-              <marker date="1515486280423" expanded="true" signature="3965:4255" ph="create table... cdc_config" />
-              <marker date="1515486280423" expanded="true" signature="4290:4596" ph="create table... cdc_register" />
+              <marker date="1515486411884" expanded="true" signature="3966:4256" ph="create table... cdc_config" />
+              <marker date="1515486411884" expanded="true" signature="4291:4597" ph="create table... cdc_register" />
             </folding>
           </first_editor>
           <second_editor />
