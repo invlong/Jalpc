@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: pro.invlong@gmail.com
+github_username: invlong
 
 # Build settings
 markdown: kramdown
