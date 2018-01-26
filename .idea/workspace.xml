@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73060ac2-d501-4c50-ba61-54d0558d484e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/work/material/介质流程图.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/work/material/介质层服务开发说明文档.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/work/material/介质层服务开发说明文档.md" afterPath="$PROJECT_DIR$/_posts/work/material/2018-01-26-介质层服务开发说明文档.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,12 +35,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="介质层服务开发说明文档.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/work/material/介质层服务开发说明文档.md">
+      <file leaf-file-name="2018-01-26-介质层服务开发说明文档.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-01-26-介质层服务开发说明文档.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+                <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
                 <folding>
                   <marker date="1516945527385" expanded="true" signature="2986:3151" ph="{&quot;code&quot;: 1...}" />
                 </folding>
@@ -180,6 +179,31 @@
               <item name="invlong.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="invlong.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="invlong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="invlong.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="invlong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="invlong.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="invlong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="invlong.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="cdc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="invlong.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="invlong.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -302,7 +326,7 @@
       <workItem from="1515629719762" duration="1492000" />
       <workItem from="1516410917322" duration="1077000" />
       <workItem from="1516849717108" duration="656000" />
-      <workItem from="1516945450122" duration="85000" />
+      <workItem from="1516945450122" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="删除所有文章">
       <created>1515465547289</created>
@@ -423,15 +447,21 @@
       <option name="project" value="LOCAL" />
       <updated>1516413124733</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="增加工作文章">
+      <created>1516945546199</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516945546199</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24825000" />
+    <option name="totallyTimeSpent" value="24950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -441,7 +471,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25262576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25262576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -499,7 +529,8 @@
     <MESSAGE value="base update" />
     <MESSAGE value="新增文章" />
     <MESSAGE value="删除文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除文章" />
+    <MESSAGE value="增加工作文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加工作文章" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -846,11 +877,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/work/material/介质层服务开发说明文档.md">
+    <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-01-26-介质层服务开发说明文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             <folding>
               <marker date="1516945527385" expanded="true" signature="2986:3151" ph="{&quot;code&quot;: 1...}" />
             </folding>
