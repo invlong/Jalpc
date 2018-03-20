@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73060ac2-d501-4c50-ba61-54d0558d484e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/work/material/介质流程图.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/work/material/2018-02-24-介质服务开发文档.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/work/material/2018-02-24-介质服务开发文档.md" afterPath="$PROJECT_DIR$/_posts/work/material/2018-03-20-介质服务开发文档.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="193">
-                <caret line="62" column="6" lean-forward="true" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+              <first_editor relative-caret-position="133">
+                <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,8 +38,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-02-24-介质服务开发文档.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-02-24-介质服务开发文档.md">
+      <file leaf-file-name="2018-03-20-介质服务开发文档.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-03-20-介质服务开发文档.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -306,7 +304,7 @@
       <workItem from="1516954941187" duration="602000" />
       <workItem from="1519450402371" duration="3043000" />
       <workItem from="1519544185732" duration="14000" />
-      <workItem from="1521504747110" duration="170000" />
+      <workItem from="1521504747110" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="删除所有文章">
       <created>1515465547289</created>
@@ -448,14 +446,22 @@
       <option name="project" value="LOCAL" />
       <updated>1516946761705</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add material service api doc">
+      <created>1521504933839</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1521504933839</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31857000" />
+    <option name="totallyTimeSpent" value="31955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -525,7 +531,8 @@
     <MESSAGE value="增加工作文章" />
     <MESSAGE value="修正标题格式" />
     <MESSAGE value="删除文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除文章" />
+    <MESSAGE value="add material service api doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="add material service api doc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -852,7 +859,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-02-24-介质服务开发文档.md">
+    <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-03-20-介质服务开发文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -866,8 +873,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="193">
-            <caret line="62" column="6" lean-forward="true" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+          <first_editor relative-caret-position="133">
+            <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
