@@ -25,12 +25,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-02-24-spring-boot设置jvm参数.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-02-24-spring-boot设置jvm参数.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="6" />
+              <first_editor relative-caret-position="160">
+                <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -38,12 +38,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-03-20-介质服务开发文档.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-03-20-介质服务开发文档.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-03-20-介质服务开发文档.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="100">
-                <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+                <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -101,8 +101,8 @@
         <option value="$PROJECT_DIR$/_posts/work/cdc/2018-01-20-文章.md" />
         <option value="$PROJECT_DIR$/_posts/work/material/介质层服务开发说明文档.md" />
         <option value="$PROJECT_DIR$/_posts/work/material/2018-01-26-介质层服务开发说明文档.md" />
-        <option value="$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md" />
         <option value="$PROJECT_DIR$/_posts/work/material/2018-03-20-介质服务开发文档.md" />
+        <option value="$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md" />
       </list>
     </option>
   </component>
@@ -305,7 +305,7 @@
       <workItem from="1516954941187" duration="602000" />
       <workItem from="1519450402371" duration="3043000" />
       <workItem from="1519544185732" duration="14000" />
-      <workItem from="1521504747110" duration="742000" />
+      <workItem from="1521504747110" duration="916000" />
     </task>
     <task id="LOCAL-00001" summary="删除所有文章">
       <created>1515465547289</created>
@@ -461,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521505029920</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add jekkry title">
+      <created>1521505518363</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1521505518363</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32429000" />
+    <option name="totallyTimeSpent" value="32603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -541,7 +548,8 @@
     <MESSAGE value="删除文章" />
     <MESSAGE value="add material service api doc" />
     <MESSAGE value="change post time" />
-    <option name="LAST_COMMIT_MESSAGE" value="change post time" />
+    <MESSAGE value="add jekkry title" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jekkry title" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -868,22 +876,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md">
+    <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-03-20-介质服务开发文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="6" />
+          <first_editor relative-caret-position="100">
+            <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/work/material/2018-03-20-介质服务开发文档.md">
+    <entry file="file://$PROJECT_DIR$/_posts/work/spring-boot/2018-02-24-spring-boot设置jvm参数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <first_editor relative-caret-position="160">
+            <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
