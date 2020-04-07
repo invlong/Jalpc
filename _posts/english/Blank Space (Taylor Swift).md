@@ -72,7 +72,7 @@ And I'll write your name
 写上你的名字  
 
 Cherry lips, crystal skies  
-樱桃嘴唇 清澈天空
+樱桃嘴唇 清澈天空  
 I could show you incredible things  
 我可以带你见识见识特别的东西  
 Stolen kisses, pretty lies  
@@ -155,10 +155,8 @@ And you love the game
 
 'Cause we're young and we're reckless  
 因为我们年轻不顾一切  
-We'll take this way too far  
-
-It'll leave you breathless Or with a nasty scar  
-我们会用尽全力，爱得窒息，或是留下难看的伤疤 
+We'll take this way too far It'll leave you breathless Or with a nasty scar  
+我们会用尽全力，爱得窒息，或是留下难看的伤疤  
 Got a long list of ex-lovers  
 我长长的名单上的前男友们  
 They'll tell you I'm insane  
