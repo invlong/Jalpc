@@ -9,8 +9,6 @@ tag: "tech"
 * content
 {:toc}  
 
-# 记录一次误删Centos中的Python导致的yum无法使用等问题
-
 > 最近在服务器上安装HttpRunner时，想统一Python版本，删除了系统的一些旧版本，导致了一些问题，记录修复过程
 
 #### 1.删除现有Python
