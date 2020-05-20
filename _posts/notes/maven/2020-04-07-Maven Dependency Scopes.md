@@ -2,7 +2,7 @@
 layout: post  
 title: "Maven Dependency Scopes"  
 date: 2020-04-07 14:53:50 +0800  
-categories: 个人笔记  
+categories: 技术文章  
 tag: "Maven"  
 ---
 

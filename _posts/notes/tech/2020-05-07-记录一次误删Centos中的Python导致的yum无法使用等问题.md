@@ -2,8 +2,8 @@
 layout: post  
 title: "记录一次误删Centos中的Python导致的yum无法使用等问题"  
 date: 2020-05-07 14:27:50 +0800  
-categories: 个人笔记  
-tag: "tech"  
+categories: 技术文章  
+tag: "centos"  
 ---
 
 * content
