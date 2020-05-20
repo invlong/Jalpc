@@ -3,7 +3,7 @@ layout: post
 title: "I Knew Your Were Trouble Taylor Swift 歌词+中文翻译【转载】"  
 date: 2020-05-05 21:24:00 +0800  
 categories: 英文学习  
-tag: "英文歌曲"  
+tag: "翻译"  
 ---
 
 * content

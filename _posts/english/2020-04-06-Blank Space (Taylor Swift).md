@@ -3,7 +3,7 @@ layout: post
 title: "Blank Space - Taylor Swift"  
 date: 2020-04-06 19:15:22 +0800  
 categories: 英文学习  
-tag: "英文歌曲"  
+tag: "翻译"  
 ---
 
 * content
