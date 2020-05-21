@@ -2,7 +2,7 @@
 layout: post  
 title: "Charles的安装以及配置https"  
 date: 2020-05-21 14:27:50 +0800  
-categories: 技术文章  
+categories: Java培训  
 tag: "工具"  
 ---
 
