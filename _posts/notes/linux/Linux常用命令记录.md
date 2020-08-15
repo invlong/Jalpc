@@ -16,6 +16,10 @@ netstat -nap | grep pid
 docker inspect -f '{{.State.Pid}}' 容器id
 lsof -p 17514
 # 根据端口查看进程
-
+sudo chown -R invlong:invlong /data
+# 查询close_wait
+netstat -an | grep CLOSE
+# 根据端口，查询pid
+netstat -anp|grep 39956|awk '{printf $7}'|cut -d/ -f1
 ```
 
