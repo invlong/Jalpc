@@ -4,7 +4,7 @@
 
 ```shell
 # 查询某目录最深一层
-du -h --max-depth=1 /home
+    du -h --max-depth=1 /home
 ```
 
 ```shell
@@ -21,5 +21,13 @@ sudo chown -R invlong:invlong /data
 netstat -an | grep CLOSE
 # 根据端口，查询pid
 netstat -anp|grep 39956|awk '{printf $7}'|cut -d/ -f1
+# 导出镜像
+docker save 镜像id > /home/docker-image/gateway-web.tar
+# 导入镜像
+docker load < gateway-web.tar
+# 打标签
+docker tag 镜像id 10.0.0.102/java/gateway-web:latest
+# 查看流量
+iftop -i eth0 -n  -P
 ```
 
